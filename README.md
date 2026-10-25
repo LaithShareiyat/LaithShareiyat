@@ -10,4 +10,4 @@
 <a href="https://www.linkedin.com/in/laithsh"><code>linkedin ↗</code></a>
 </p>
 
-<p align="center">Experience, projects, publications and CV: <a href="https://laith-sh.com">laith-sh.com</a></p>
+<p align="center"><a href="https://laith-sh.com">website</a></p>
